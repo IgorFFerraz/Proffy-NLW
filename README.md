@@ -1,4 +1,4 @@
-# Proffy - Plataforma de Conexão entre Alunos e Professores
+# Proffy - Plataforma de conexão entre alunos e professores
 
 Um projeto Full-Stack desenvolvido para conectar professores e alunos. A plataforma permite que professores cadastrem suas aulas, definam preços e horários disponíveis, enquanto os alunos podem buscar por essas aulas e entrar em contato.
 
