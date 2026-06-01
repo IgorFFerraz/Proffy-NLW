@@ -3,7 +3,7 @@
 Um projeto Full-Stack desenvolvido para conectar professores e alunos. A plataforma permite que professores cadastrem suas aulas, definam preços e horários disponíveis, enquanto os alunos podem buscar por essas aulas e entrar em contato.
 
 ## Objetivo
-O objetivo principal da aplicação é facilitar o encontro entre estudantes que precisam de ajuda em matérias específicas e professores disponíveis para ensinar, gerenciando disponibilidade de horários e filtragem por disciplinas.
+O objetivo principal da aplicação é facilitar o encontro entre estudantes que precisam de ajuda em matérias específicas e professores disponíveis para ensinar, gerenciando disponibilidade de horários e filtragem por disciplinas. Além disso, tive como objetivo testar meus conhecimentos nas tecnologias utilizadas no projeto, treinando a aplicação e implementação correta das mesmas.
 
 ## Tecnologias Utilizadas
 
